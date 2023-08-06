@@ -1,0 +1,1 @@
+/usr/local/bin/x86_64-unknown-linux-gnu-g++ -fPIC  -W -Wall -DGLEW_NO_GLU -std=c++11 -fPIC -fpermissive -O3 -DNDEBUG  -shared -Wl,-soname,libplate_rec.so -o ../dependencies/lib/libplate_rec.so CMakeFiles/plate_rec.dir/src/plate_det.cpp.o CMakeFiles/plate_rec.dir/src/plate_rec.cpp.o CMakeFiles/plate_rec.dir/src/utils.cpp.o  -L/home/ivms/local_disk/plate_rec_linux/dependencies/lib 

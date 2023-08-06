@@ -1,0 +1,4 @@
+/home/ivms/local_disk/plate_rec_linux/build/CMakeFiles/rebuild_cache.dir
+/home/ivms/local_disk/plate_rec_linux/build/CMakeFiles/edit_cache.dir
+/home/ivms/local_disk/plate_rec_linux/build/CMakeFiles/plate_rec_test.dir
+/home/ivms/local_disk/plate_rec_linux/build/CMakeFiles/plate_rec.dir
